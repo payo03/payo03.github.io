@@ -3,6 +3,7 @@ description:      github Test
 copyright:        payo03
 url: https://payo03.github.io
 baseurl : ""
+remote_theme : benradford/Slate-and-Simple-Jekyll-Theme
 encoding: UTF-8
 
 future:      true  # publish future dated posts --  true, false (default)
