@@ -3,7 +3,6 @@ description:      github Test
 copyright:        payo03
 url: https://payo03.github.io
 baseurl : ""
-remote_theme : benradford/Slate-and-Simple-Jekyll-Theme
 
 future:      true  # publish future dated posts --  true, false (default)
 highlighter: rouge
@@ -21,7 +20,7 @@ sass:
 permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
-paginate: 2
+paginate: 3
 
 #kramdown:
 #  input: GFM
